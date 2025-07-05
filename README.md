@@ -1,8 +1,6 @@
-Super! Oto propozycja **ładnego README.md po angielsku** dla Twojego projektu InspectMe, w stylu popularnym na GitHubie, z emotkami i sekcjami, które świetnie się tam prezentują:
 
----
 
-````markdown
+
 # 🎯 InspectMe
 
 A fun and educational web game where you test your attention to detail by inspecting and finding UI elements. Built with **React**, **TypeScript**, and **Vite**.
@@ -82,7 +80,5 @@ Cezary Szczepaniak
 
 ```
 
----
 
-Chcesz krótsze, dłuższe, bardziej minimalistyczne, albo z innym stylem?
 ```
